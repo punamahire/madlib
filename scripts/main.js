@@ -1,7 +1,5 @@
-import { showInputFields } from "./scripts/showInputFields.js"
-import { showStory } from "./scripts/showStory.js"
-
-console.log("You look marvelous!");
+import { showInputFields } from "./showInputFields.js"
+import { showStory } from "./showStory.js"
 
 //story
 // It had been a hard, {adjective} day on the {silly word} trail. The cowboys drove a herd of {plural noun} across the dry plains, kicking up {noun} along the way as they looked for somewhere to bed down.
